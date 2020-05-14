@@ -1,0 +1,3 @@
+[console_scripts]
+kn_iris = kn_iris.main:main
+
