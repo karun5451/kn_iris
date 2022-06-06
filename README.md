@@ -181,4 +181,4 @@ Once model is trained then its ready to test with real-time images:
 
 ## Support
 
-Still a lot need to be implemented open for your contributions
+***Still a lot need to be implemented open for your contributions***
